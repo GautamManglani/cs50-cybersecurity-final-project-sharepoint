@@ -1,0 +1,16 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Presentation temporary files
+~$*.pptx
+~$*.docx
